@@ -1,0 +1,22 @@
+.img-container{
+    position: relative;
+    height: 400px;
+    z-index: 99;
+    width: 600px;
+}
+
+.img-items {
+    position: absolute;
+    opacity: 0;
+    z-index: 0;
+    transition: all 0.5s;
+    height: 400px;
+}
+.img-items.active {
+    opacity: 1;
+    z-index: 1;
+}
+.img-items img{
+    width:600px;
+    height: 400px;
+}

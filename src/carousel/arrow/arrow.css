@@ -1,0 +1,30 @@
+.arrow{
+    font-size: 45px;
+    background-color: #a5a1a1;
+    opacity: 0.8;
+    width: 35px;
+    height: 60px;
+    position: absolute;
+    z-index: 99;
+    color: white;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+
+}
+.arrowAll{
+    position: relative;
+
+    top: -400px;
+}
+.left{
+    top:162px;
+    left:0;
+
+}
+.right{
+    top:162px;
+    left:565px;
+}
