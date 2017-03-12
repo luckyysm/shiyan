@@ -10,9 +10,9 @@ class Haa extends Component{
 
         return (
             <div>
-                <h1>时刻保持着自己</h1>
+                <h1>时刻保持着自己!</h1>
 
-                <h1>你很好哦</h1>
+                <h1>你很好哦!</h1>
 
                 <h1>微笑，Smile！</h1>
             </div>
